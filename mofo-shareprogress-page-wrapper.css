@@ -1,7 +1,7 @@
 /* All the !important rules are
    To override CSS rules injected by Shareprogress' script */
 
-  body {
+body {
   background: #b7b9fa; /* Foudation Brand $light-blue */
   font-family: 'Nunito Sans', sans-serif !important;
 }
