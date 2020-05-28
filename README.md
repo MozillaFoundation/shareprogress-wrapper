@@ -2,7 +2,7 @@
 
 ## To update HTML code
 
-Go to Shareprogress, find the default wrapper, and update the HTML code there.
+Go to [Shareprogress](https://www.shareprogress.org/), find the default wrapper, and update the HTML code there.
 Don't forget to also update `default-wrapper.html` and commit the changes to this repo.
 
 ## To update CSS code
